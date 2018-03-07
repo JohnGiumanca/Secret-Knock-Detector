@@ -11,27 +11,27 @@ http://www.instructables.com/id/Secret-Knock-Detecting-Door-Lock/
 ## Materials
 
 Electronics:
-..* 1 Arduino Uno
-..* 1 Servo Motor
-..* 1 Piezo Speaker
-..* 1 Normal Pushbutton
-..* 1 Red Led
-..* 1 Blue Led
-..* 1 Transistor P2N2222A
-..* 1 Rectifier Diode (1N4001 or similar)
-..* 1 2.2k ohm resistor
-..* 1 10k ohm resistor
-..* 1 1M ohm resistor
-..* 2 560 ohm resistor
-..* 1 piece of perf board
-..* 1 9 volt battery clip and 9v battery
-..*  Wires
+* 1 Arduino Uno
+* 1 Servo Motor
+* 1 Piezo Speaker
+* 1 Normal Pushbutton
+* 1 Red Led
+* 1 Blue Led
+* 1 Transistor P2N2222A
+* 1 Rectifier Diode (1N4001 or similar)
+* 1 2.2k ohm resistor
+* 1 10k ohm resistor
+* 1 1M ohm resistor
+* 2 560 ohm resistor
+* 1 piece of perf board
+* 1 9 volt battery clip and 9v battery
+*  Wires
 
 Case:
-..* 1 Cheap Mailbox
-..* 1 Door Latche
+* 1 Cheap Mailbox
+* 1 Door Latche
 
 ## IMG
 
-![alt tag]("https://i.imgur.com/SIBJbE4.jpg""Inside")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/iimg1.jpg "Inside")
 
