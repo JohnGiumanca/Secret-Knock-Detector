@@ -42,10 +42,13 @@ The installation procces is pretty simple. Download the file, open it with Ardui
 
 ## Presentation
 
-<p align="">
-<img src="https://i.imgur.com/m2daLOT.jpg" width="280" height="450" style="float: right;">
-<img src="https://i.imgur.com/hZyDdi7.jpg" width="280" height="450" style="float: right;">
-<img src="https://user-images.githubusercontent.com/19936310/46400342-e7588400-c702-11e8-85a1-fe073d235f16.gif" width="280" height="450" style="float: right;"/>
+<p align="center">
+<img src="https://i.imgur.com/m2daLOT.jpg" width="285" height="440" style="float: right;">
+<img src="https://i.imgur.com/hZyDdi7.jpg" width="285" height="440" style="float: right;">
+<img src="https://user-images.githubusercontent.com/19936310/46400342-e7588400-c702-11e8-85a1-fe073d235f16.gif" width="285" height="440" style="float: right;"/>
 </p>
 
+
+## Future Development
+The mechanism can be upgraded with a Bluetooth BLE. Then you cand control the switch with your phone or even register a new secret knock. I even added a special blue led just for this matter.
 
