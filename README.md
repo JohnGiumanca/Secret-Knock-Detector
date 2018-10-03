@@ -50,5 +50,5 @@ The installation procces is pretty simple. Download the file, open it with Ardui
 
 
 ## Future Development
-The mechanism can be upgraded with a Bluetooth BLE. Then you cand control the switch with your phone or even register a new secret knock. I even added a special blue led just for this matter.
+The mechanism can be upgraded with a Bluetooth BLE. Then you can control the switch with your phone or even register a new secret knock. I even added a special blue led just for this matter.
 
