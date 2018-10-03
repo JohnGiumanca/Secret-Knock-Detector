@@ -41,7 +41,7 @@ Tools:
 The installation procces is pretty simple. Download the file, open it with Arduino IDE and uploade it to your Arduino Uno Board. If you want to follow a similar case construction, I suggest to use my code because I did some minor optimization to the sensitivity of the sensor. 
 
 ## Presentation
-
-![img1](https://i.imgur.com/m2daLOT.jpg =480x360)
+<img src="https://i.imgur.com/m2daLOT.jpg" width="400" height="790">
+![img1]( =480x360)
 ![img2](https://i.imgur.com/hZyDdi7.jpg =480x360)
-![gif](https://imgur.com/a/Q6BO82j.gif)
+![gif](https://media.giphy.com/media/enreLt1MEm5A3OPftb/giphy.gif)
