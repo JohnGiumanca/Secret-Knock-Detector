@@ -42,5 +42,6 @@ The installation procces is pretty simple. Download the file, open it with Ardui
 
 ## Presentation
 
-![img1](https://user-images.githubusercontent.com/19936310/37115855-1f39db6a-2255-11e8-84a3-dc9202c4556e.jpg)
+![img1](IMG_3.jpg | width=480)
+![img2](IMG_5.jpg | width=480)
 ![](demo.gif)
