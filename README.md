@@ -42,6 +42,6 @@ The installation procces is pretty simple. Download the file, open it with Ardui
 
 ## Presentation
 
-![img1](IMG_3.jpg | width=480)
-![img2](IMG_5.jpg | width=480)
-![](demo.gif)
+![img1](/Users/johnsmacbook/Downloads/Photos\ 2/IMG_3.jpg | width=480)
+![img2](/Users/johnsmacbook/Downloads/Photos\ 2/IMG_5.jpg | width=480)
+![](/Users/johnsmacbook/Downloads/Photos\ 2/demo.gif)
