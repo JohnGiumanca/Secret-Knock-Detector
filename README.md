@@ -45,7 +45,7 @@ The installation procces is pretty simple. Download the file, open it with Ardui
 <p align="">
 <img src="https://i.imgur.com/m2daLOT.jpg" width="300" height="480" style="float: right;">
 <img src="https://i.imgur.com/hZyDdi7.jpg" width="300" height="480" style="float: right;">
-<img src="https://media.giphy.com/media/enreLt1MEm5A3OPftb/giphy.gif" width="300" height="480" style="float: right;">
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://media.giphy.com/media/enreLt1MEm5A3OPftb/giphy.gif" width="300" height="480" />
 </p>
 
 
