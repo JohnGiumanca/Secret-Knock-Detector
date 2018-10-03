@@ -43,9 +43,9 @@ The installation procces is pretty simple. Download the file, open it with Ardui
 ## Presentation
 
 <p align="">
-<img src="https://i.imgur.com/m2daLOT.jpg" width="300" height="480" style="float: right;">
-<img src="https://i.imgur.com/hZyDdi7.jpg" width="300" height="480" style="float: right;">
-![demo](https://user-images.githubusercontent.com/19936310/46400342-e7588400-c702-11e8-85a1-fe073d235f16.gif)
+<img src="https://i.imgur.com/m2daLOT.jpg" width="280" height="450" style="float: right;">
+<img src="https://i.imgur.com/hZyDdi7.jpg" width="280" height="450" style="float: right;">
+<img src="https://user-images.githubusercontent.com/19936310/46400342-e7588400-c702-11e8-85a1-fe073d235f16.gif" width="280" height="450" style="float: right;"/>
 </p>
 
 
