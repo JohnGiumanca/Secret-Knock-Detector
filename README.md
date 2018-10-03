@@ -42,6 +42,6 @@ The installation procces is pretty simple. Download the file, open it with Ardui
 
 ## Presentation
 
-![img1](https://i.imgur.com/m2daLOT.jpg | height=480)
-![img2](https://i.imgur.com/hZyDdi7.jpg | height=480)
-![](https://media.giphy.com/media/enreLt1MEm5A3OPftb/giphy.gif)
+![img1](https://i.imgur.com/m2daLOT.jpg)
+![img2](https://i.imgur.com/hZyDdi7.jpg)
+![gif](https://media.giphy.com/media/enreLt1MEm5A3OPftb/giphy.gif)
