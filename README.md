@@ -42,10 +42,10 @@ The installation procces is pretty simple. Download the file, open it with Ardui
 
 ## Presentation
 
-<p align="center">
-<img src="https://i.imgur.com/m2daLOT.jpg" width="270" height="480" style="float: right;">
-<img src="https://i.imgur.com/hZyDdi7.jpg" width="270" height="480" style="float: right;">
-<iframe src="https://giphy.com/embed/enreLt1MEm5A3OPftb" style="float: right;" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<p align="">
+<img src="https://i.imgur.com/m2daLOT.jpg" width="300" height="480" style="float: right;">
+<img src="https://i.imgur.com/hZyDdi7.jpg" width="300" height="480" style="float: right;">
+<img src="https://media.giphy.com/media/enreLt1MEm5A3OPftb/giphy.gif" width="300" height="480" style="float: right;">
 </p>
 
 
